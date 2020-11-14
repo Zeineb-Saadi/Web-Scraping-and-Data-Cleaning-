@@ -1,2 +1,2 @@
 # Web-Scraping-and-Data-Cleaning
-![](class diagram.png)
+![Alt text](class diagram.png)
