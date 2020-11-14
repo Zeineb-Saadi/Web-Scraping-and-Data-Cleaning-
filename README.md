@@ -1,2 +1,2 @@
 # Web-Scraping-and-Data-Cleaning
-![image info](./home/zeineb/Téléchargements/class diagram.png)
+![image info](Images/class diagram.png)
