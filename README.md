@@ -1,2 +1,2 @@
 # Web-Scraping-and-Data-Cleaning
-![image info](Images/class diagram.png)
+![image info](class diagram.png)
